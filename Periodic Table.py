@@ -28,4 +28,4 @@ pk = input("You Want To Exit?(Y/N)")
 if pk=='y' or 'Y':
     pass
 else:
-    func()
+    print("You Have To Exit")
