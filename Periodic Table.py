@@ -19,6 +19,13 @@ perDict = {"Hydrogen":"Symbol: H\nElement Number: 01 \nNumber Of Protons/Electro
            "Potassium":"Symbol: K\nElement Number: 19\nNumber Of Protons/Electrons: 19\nNumber Of Neutrons: 20\nDistribution Of Electrons: 2, 8, 8, 1",
            "Calcium":"Symbol: Ca\nElement Number: 20\nNumber Of Protons/Electrons: 20\nNumber Of Neutrons: 20\nDistribution Of Electrons: 2, 8, 8, 2",
            }
-print("NOTE:-- Note That The Element Name's First Alphabet Is Must Be Capital And In This Periodic Table Only Top 20Elements Are Available.")
-itP = input("Please Enter The Element Name ")
-print(perDict[itP])
+print("NOTE:-- Note That The Element Name's First Alphabet I Must Be Capital")
+def func():
+    itP = input("Please Enter The Element Name ")
+    print(perDict[itP])
+func()
+pk = input("You Want To Exit?(Y/N)")
+if pk=='y' or 'Y':
+    pass
+else:
+    func()
