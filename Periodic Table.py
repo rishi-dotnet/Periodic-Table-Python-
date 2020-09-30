@@ -18,6 +18,7 @@ perDict = {"Hydrogen":"Symbol: H\nElement Number: 01 \nNumber Of Protons/Electro
            "Argon":"Symbol: Ar\nElement Number: 18\nNumber Of Protons/Electrons: 18\nNumber Of Neutrons: 22\nDistribution Of Electrons: 2, 8, 8",
            "Potassium":"Symbol: K\nElement Number: 19\nNumber Of Protons/Electrons: 19\nNumber Of Neutrons: 20\nDistribution Of Electrons: 2, 8, 8, 1",
            "Calcium":"Symbol: Ca\nElement Number: 20\nNumber Of Protons/Electrons: 20\nNumber Of Neutrons: 20\nDistribution Of Electrons: 2, 8, 8, 2",
+           "Scandium":"Symbol: Sc\nElement Number: 21\nNumber of Protons/Electrons: 21\nNumber of Neutrons:21\nDistribution of Electrons: 2, 8, 9, 2",
            }
 print("NOTE:-- Note That The Element Name's First Alphabet I Must Be Capital")
 def func():
