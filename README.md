@@ -1,5 +1,5 @@
 # Periodic-Table-Python-
-In This Periodic Table There Are Only First 20Element Available.
+In This Periodic Table There Are Only First 21 Element Available.
 
 The periodic table, also known as the periodic table of elements, is a tabular display of the chemical elements, which are arranged by atomic number, electron configuration, and recurring chemical properties
 
@@ -27,3 +27,4 @@ Number
 18	Argon   	Ar
 19	Potassium	K
 20	Calcium	        Ca
+21 Scandium      Sc
